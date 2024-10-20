@@ -2,6 +2,8 @@
 visualization techniques and comparing different plots on automobile dataset. Hands-on seaborn,numpy,pandas,pythonpackage 
 
 tools: jupyter notebook
+
+
 seaborn,pandas,python for data visualization:
 
 univariate analysis: 
