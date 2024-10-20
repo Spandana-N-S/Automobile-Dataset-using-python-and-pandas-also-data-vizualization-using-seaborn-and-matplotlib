@@ -2,7 +2,7 @@
 visualization techniques and comparing different plots on automobile dataset. Hands-on seaborn package 
 
 tools: jupyter notebook
-seaborn for data visualization:
+seaborn,pandas for data visualization:
 
 univariate analysis: 
 *dist plot
