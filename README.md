@@ -1,4 +1,4 @@
-# Data-Visualization-using-python-on-Automobile-Dataset
+# Data-Visualization-using-python-on-Automobile-Dataset, Games-Dataset
 visualization techniques and comparing different plots on automobile dataset. Hands-on seaborn package 
 
 tools: jupyter notebook
