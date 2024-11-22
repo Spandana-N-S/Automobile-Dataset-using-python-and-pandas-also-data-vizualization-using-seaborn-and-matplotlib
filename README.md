@@ -13,3 +13,5 @@ The dataset contains a wealth of information about cars, encompassing technical 
 Business Objective
 
 The primary objective of this project is to explore and analyze the factors influencing car prices. By leveraging data analysis and visualization techniques, our goal is to provide actionable insights that help stakeholders make informed decisions regarding pricing strategies, product development, and consumer trends.
+
+This respository presents my training examples considering visualisations of different data sets using matplotlib and seaborn libraries.
